@@ -1,0 +1,2 @@
+*.ts    git text eol=lf
+*.tsx   test eol=lf
